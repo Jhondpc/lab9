@@ -1,0 +1,13 @@
+package com.example.kkkkk;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class KkkkkApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(KkkkkApplication.class, args);
+    }
+
+}
